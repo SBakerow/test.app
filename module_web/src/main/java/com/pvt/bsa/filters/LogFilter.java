@@ -15,7 +15,7 @@ import java.io.IOException;
  */
 public class LogFilter implements Filter {
   //Logger logger = Logger.getLogger(getClass());
-  //  private static final Logger log = LogManager.getLogger(Calculate.class.getName());
+
     Logger logger2 = LogManager.getLogger(getClass().getName());
     public void destroy() {
     }
