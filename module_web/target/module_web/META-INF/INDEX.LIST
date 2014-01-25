@@ -1,0 +1,15 @@
+JarIndex-Version: 1.0
+
+module_jar-1.0-SNAPSHOT.jar
+META-INF
+META-INF/maven
+META-INF/maven/com.pvt.bsa
+META-INF/maven/com.pvt.bsa/module_jar
+com
+com/pvt
+com/pvt/bsa
+com/pvt/bsa/dbModule
+com/pvt/bsa/dbModule/dao
+com/pvt/bsa/dbModule/service
+com/pvt/bsa/dbModule/utils
+
